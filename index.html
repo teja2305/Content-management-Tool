@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Content Management Tool</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body><br>
+    <div class="container">
+        <header>
+            <h1>Content Management Tool</h1>
+        </header>
+        <main>
+            <section id="addContent" class="content-section">
+                <h2>Add Content</h2>
+                <form id="contentForm">
+                    <label for="title">Title:</label>
+                    <input type="text" id="title" required><br><br>
+                    <label for="content">Content:</label><br>
+                    <textarea id="content" rows="6" required></textarea><br><br>
+                    <label for="type">Content Type:</label>
+                    <select id="type">
+                        <option value="text">Text</option>
+                        <option value="image">Image</option>
+                        <option value="video">Video</option>
+                    </select><br><br>
+                    <button type="submit">Add Content</button>
+                </form>
+            </section>
+            <section id="contentList" class="content-section">
+                <h2>Content List</h2>
+                <ul id="contentItems">
+                    <!-- Content items will be listed here dynamically -->
+                </ul>
+            </section>
+        </main>
+    </div>
+    <script src="main.js"></script>
+    <br>
+</body>
+</html>
