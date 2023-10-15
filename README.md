@@ -1,23 +1,21 @@
-# Content Management Tool
+![Screenshot 2023-10-15 135809](https://github.com/teja2305/Content-management-Tool/assets/124275122/3fa5fa68-d816-4a23-bca8-8bcc591ff544)This repository contains a web-based Content Management Tool built using HTML, CSS, and JavaScript. The tool allows users to add content items with titles and descriptions. Users can also specify the type of content, such as text, images, or videos.
 
-A simple web-based content management tool for creating and managing articles. This tool allows you to add, edit, and delete articles with associated titles and content. You can also embed images and videos within the articles.
+![Screenshot 2023-10-15 135809](https://github.com/teja2305/Content-management-Tool/assets/124275122/3daf0407-8f9e-4a77-9517-de645ce53104)
 
-![Screenshot](https://github.com/IIKirito-kunII/Bharat-Intern/blob/2ab0e59e2e9aa0e4b59d7e7e519f6b3e5b41d770/%5B%20Content%20Management%20Tool%20%5D/Screenshot%20from%202023-08-20%2014-18-56.png)
+![Screenshot 2023-10-15 135728](https://github.com/teja2305/Content-management-Tool/assets/124275122/3e247307-490d-4b94-97c4-c170b4c87b32)
 
-## Features
 
-- Add new articles with titles and content.
-- Edit existing articles.
-- Delete articles.
-- Embed images and videos within articles.
-- Responsive design for different screen sizes.
 
-## Contributing
+##Key Features:
 
-Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
+Add Content: Users can input a title, content, and select the content type (text, image, or video) through a user-friendly form. Display Content: Added content items are dynamically displayed in an organized list, making it easy for users to manage and view their content. Support for Images and Videos: Users can include image and video URLs as content, and the tool will render and display them appropriately. Responsive Design: The tool's user interface is designed to work seamlessly on both desktop and mobile devices.
 
-1. Fork the repository.
-2. Create a new branch: `git checkout -b feature/your-feature-name`
-3. Commit your changes: `git commit -am 'Add some feature'`
-4. Push to the branch: `git push origin feature/your-feature-name`
-5. Submit a pull request.
+##How to Use:
+
+Open the HTML file (index.html) in your web browser to access the Content Management Tool. Use the "Add Content" section to submit new content items. Select the content type and provide the necessary details. Click "Add Content" to add the item to the content list. Feel free to use and contribute to this tool, whether you need a simple content manager or want to explore web development techniques. We welcome your feedback, suggestions, and contributions to improve this project.
+
+##Credits:
+
+This project is brought to you by Sai Teja Ramacharla. It is available under an open-source license, making it accessible for developers and users alike.
+
+Explore the tool, manage your content efficiently, and enjoy the convenience it offers in handling various types of content items. Your feedback and contributions are highly appreciated.
