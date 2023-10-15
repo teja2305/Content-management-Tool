@@ -1,9 +1,8 @@
-![Screenshot 2023-10-15 135809](https://github.com/teja2305/Content-management-Tool/assets/124275122/3fa5fa68-d816-4a23-bca8-8bcc591ff544)This repository contains a web-based Content Management Tool built using HTML, CSS, and JavaScript. The tool allows users to add content items with titles and descriptions. Users can also specify the type of content, such as text, images, or videos.
+This repository contains a web-based Content Management Tool built using HTML, CSS, and JavaScript. The tool allows users to add content items with titles and descriptions. Users can also specify the type of content, such as text, images, or videos.
 
 ![Screenshot 2023-10-15 135809](https://github.com/teja2305/Content-management-Tool/assets/124275122/3daf0407-8f9e-4a77-9517-de645ce53104)
 
 ![Screenshot 2023-10-15 135728](https://github.com/teja2305/Content-management-Tool/assets/124275122/3e247307-490d-4b94-97c4-c170b4c87b32)
-
 
 
 ##Key Features:
